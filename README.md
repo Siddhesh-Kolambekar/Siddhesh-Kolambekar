@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about designing intuitive user inte
 - 🔗 **Portfolio:** [Your Portfolio Link]
 - 🔎 **LinkedIn:** www.linkedin.com/in/siddhesh-kolambekar-b25501348
 
-I'm currently enhancing my expertise in front-end development using modern frameworks and libraries like React and ChakraUI.
+I’m passionately honing my front-end development expertise, leveraging cutting-edge frameworks and libraries like React and ChakraUI to create modern, dynamic user experiences.
 
 ---
 
@@ -27,14 +27,12 @@ I'm currently enhancing my expertise in front-end development using modern frame
 - **Description:** Discover a beautifully crafted web application that seamlessly helps you track the calories of any dish with ease. Simply scan your meal using our custom-built scanner, and get accurate calorie information in seconds. A perfect blend of design and functionality for a healthier lifestyle!
 - **Technologies Used:** React, ExpressJS, JavaScript
 - **[Deployed Link](https://cool-creponne-5792ec.netlify.app/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/Dish-Scanner)**
-- **Video Walkthrough:** [Link to Video Walkthrough]
 
 ### Health Tracker
 - **Type:** Frontend
 - **Description:** A responsive website showcasing advanced CSS techniques and animations.
 - **Technologies Used:** HTML, CSS, JavaScript
 - **[Deployed Link](https://incredible-llama-01f40f.netlify.app/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/Health-Tracker)**
-- **Video Walkthrough:** [Link to Video Walkthrough]
 
 ---
 
