@@ -33,7 +33,7 @@ I'm currently enhancing my expertise in front-end development using modern frame
 - **Type:** Frontend
 - **Description:** A responsive website showcasing advanced CSS techniques and animations.
 - **Technologies Used:** HTML, CSS, JavaScript
-- **[Deployed Link](https://sage-blini-2a55b4.netlify.app/)** | **[Repository](#)**
+- **[Deployed Link](https://incredible-llama-01f40f.netlify.app/)** | **[Repository](#)**
 - **Video Walkthrough:** [Link to Video Walkthrough]
 
 ---
