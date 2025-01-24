@@ -22,14 +22,14 @@ I'm currently enhancing my expertise in front-end development using modern frame
 
 ![Projects Gif](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
-### [Project Name 1]
-- **Type:** Frontend
-- **Description:** A beautifully designed web application that focuses on user experience.
-- **Technologies Used:** React, Tailwind CSS, JavaScript
+### Dish Scanner
+- **Type:** FullStack
+- **Description:** Discover a beautifully crafted web application that seamlessly helps you track the calories of any dish with ease. Simply scan your meal using our custom-built scanner, and get accurate calorie information in seconds. A perfect blend of design and functionality for a healthier lifestyle!
+- **Technologies Used:** React, ExpressJS, JavaScript
 - **[Deployed Link](#)** | **[Repository](#)**
 - **Video Walkthrough:** [Link to Video Walkthrough]
 
-### [Project Name 2]
+### Health Tracker
 - **Type:** Frontend
 - **Description:** A responsive website showcasing advanced CSS techniques and animations.
 - **Technologies Used:** HTML, CSS, JavaScript
