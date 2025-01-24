@@ -26,14 +26,14 @@ I'm currently enhancing my expertise in front-end development using modern frame
 - **Type:** FullStack
 - **Description:** Discover a beautifully crafted web application that seamlessly helps you track the calories of any dish with ease. Simply scan your meal using our custom-built scanner, and get accurate calorie information in seconds. A perfect blend of design and functionality for a healthier lifestyle!
 - **Technologies Used:** React, ExpressJS, JavaScript
-- <a href="https://incomparable-treacle-c02669.netlify.app/" target="_blank">Deployed Link</a>
+- **[Deployed Link](https://incomparable-treacle-c02669.netlify.app/)** | **[Repository](#)**
 - **Video Walkthrough:** [Link to Video Walkthrough]
 
 ### Health Tracker
 - **Type:** Frontend
 - **Description:** A responsive website showcasing advanced CSS techniques and animations.
 - **Technologies Used:** HTML, CSS, JavaScript
-- **[Deployed Link](#)** | **[Repository](#)**
+- **[Deployed Link](https://sage-blini-2a55b4.netlify.app/)** | **[Repository](#)**
 - **Video Walkthrough:** [Link to Video Walkthrough]
 
 ---
@@ -52,4 +52,4 @@ I'm currently enhancing my expertise in front-end development using modern frame
 - 📧 **Email:** siddkol04@gmail.com
 - 📞 **Phone:** +91 9653198374
 
-Feel free to reach out for collaboration, or to connect!
+Feel free to reach out for collaboration, or to just connect!
