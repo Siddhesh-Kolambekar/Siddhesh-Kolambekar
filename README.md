@@ -25,13 +25,13 @@ I’m passionately honing my front-end development expertise, leveraging cutting
 ### Dish Scanner
 - **Type:** FullStack
 - **Description:** Discover a beautifully crafted web application that seamlessly helps you track the calories of any dish with ease. Simply scan your meal using our custom-built scanner, and get accurate calorie information in seconds. A perfect blend of design and functionality for a healthier lifestyle!
-- **Technologies Used:** React, ExpressJS, JavaScript
+- **Technologies Used:** HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, RESTful API
 - **[Deployed Link](https://cool-creponne-5792ec.netlify.app/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/Dish-Scanner)**
 
 ### Health Tracker
 - **Type:** Frontend
 - **Description:** A responsive website showcasing advanced CSS techniques and animations.
-- **Technologies Used:** HTML, CSS, JavaScript
+- **Technologies Used:** HTML5, CSS3, JavaScript, React, Firebase
 - **[Deployed Link](https://incredible-llama-01f40f.netlify.app/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/Health-Tracker)**
 
 ---
@@ -47,6 +47,7 @@ I’m passionately honing my front-end development expertise, leveraging cutting
 
 ![Reach Out Gif](https://media.giphy.com/media/j5QcmXoFWlEzrgP55a/giphy.gif)
 
+- 🔎 **LinkedIn:** www.linkedin.com/in/siddhesh-kolambekar-b25501348
 - 📧 **Email:** siddkol04@gmail.com
 - 📞 **Phone:** +91 9653198374
 
