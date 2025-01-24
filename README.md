@@ -26,7 +26,7 @@ I'm currently enhancing my expertise in front-end development using modern frame
 - **Type:** FullStack
 - **Description:** Discover a beautifully crafted web application that seamlessly helps you track the calories of any dish with ease. Simply scan your meal using our custom-built scanner, and get accurate calorie information in seconds. A perfect blend of design and functionality for a healthier lifestyle!
 - **Technologies Used:** React, ExpressJS, JavaScript
-- **[Deployed Link](https://incomparable-treacle-c02669.netlify.app/)** | **[Repository](#)**
+- <a href="https://incomparable-treacle-c02669.netlify.app/" target="_blank">Deployed Link</a> | **[Repository](#)**
 - **Video Walkthrough:** [Link to Video Walkthrough]
 
 ### Health Tracker
