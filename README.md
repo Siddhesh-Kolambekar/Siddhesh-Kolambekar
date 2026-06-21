@@ -44,7 +44,7 @@ I’m passionately honing my front-end development expertise, leveraging cutting
 ![Reach Out Gif](https://media.giphy.com/media/j5QcmXoFWlEzrgP55a/giphy.gif)
 
 - 📍 **Location:** Mumbai, India
-- 🔗 **Portfolio:** https://wonderful-flan-eef9b3.netlify.app/
+- 🔗 **Portfolio:** https://spectacular-genie-ce2e07.netlify.app/
 - 🔎 **LinkedIn:** www.linkedin.com/in/siddhesh-kolambekar-b25501348
 - 📧 **Email:** siddkol04@gmail.com
 - 📞 **Phone:** +91 9653198374
