@@ -18,6 +18,12 @@ I’m passionately honing my front-end development expertise, leveraging cutting
 
 ![Projects Gif](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
+### FusionCraft Hub
+- **Type:** FullStack
+- **Description:** Explore a local-first web application that combines 3D CAD-style design and physics experimentation in separate workspaces. The platform aims to let users create 3D objects, assemble designs, and transfer them into a physics simulation environment.
+- **Technologies Used:** Next.js, React, Three.js, Rapier, IndexedDB, TypeScript, JavaScript.
+- **[Deployed Link](https://fusioncraft-hub.siddkol04.workers.dev/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/FusionCraft-Hub)**
+
 ### Dish Scanner
 - **Type:** FullStack
 - **Description:** Discover a beautifully crafted web application that seamlessly helps you track the calories of any dish with ease. Simply scan your meal using our custom-built scanner, and get accurate calorie information in seconds. A perfect blend of design and functionality for a healthier lifestyle!
