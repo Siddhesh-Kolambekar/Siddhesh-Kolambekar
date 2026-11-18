@@ -1,8 +1,8 @@
 # Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Welcome Gif"> , I'm Siddhesh Kolambekar
 
-## Frontend Developer | UI/UX Enthusiast | Open Source Contributor
+## Full Stack Developer | UI/UX Enthusiast | Open Source Contributor
 
-Welcome to my GitHub profile! I'm passionate about designing intuitive user interfaces, building responsive web applications, and bringing ideas to life through code. My journey is driven by a love for creativity and problem-solving.
+Welcome to my GitHub profile! I'm a Full Stack Developer passionate about building interactive, scalable, and user-friendly web applications. I enjoy transforming ideas into practical solutions through clean code, creative problem-solving, and modern web technologies.
 
 ---
 
