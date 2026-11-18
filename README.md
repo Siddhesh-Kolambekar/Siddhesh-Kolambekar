@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer passionate about buildi
 
 ![Developer Gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-I’m passionately honing my front-end development expertise, leveraging cutting-edge frameworks and libraries like React and ChakraUI to create modern, dynamic user experiences.
+I’m passionately a full-stack developer with professional experience as an SDE-1 (Frontend Developer) at Sheshi, a fintech startup and expanding my expertise in backend development using Node.js, Express.js, MongoDB, and MySQL.
 
 ---
 
