@@ -1,58 +1,98 @@
-# Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Welcome Gif"> , I'm Siddhesh Kolambekar
+# Hi, I'm Siddhesh Kolambekar 👋
 
-## Full Stack Developer | UI/UX Enthusiast | Open Source Contributor
+### Frontend Developer | React.js | Next.js | TypeScript
 
-Welcome to my GitHub profile! I'm a Full Stack Developer passionate about building interactive, scalable, and user-friendly web applications. I enjoy transforming ideas into practical solutions through clean code, creative problem-solving, and modern web technologies.
+I'm a Frontend Developer with 1+ year of professional experience building responsive, scalable web applications, particularly fintech dashboards using React.js and Next.js.
 
----
+At Sheshi, I worked on reusable UI components, REST API integrations, financial data visualizations, and production issue resolution. I'm also expanding my full-stack development skills through independent projects involving Node.js, Express.js, MongoDB, and browser-based technologies.
 
-## About Me
-
-![Developer Gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-I’m passionately a full-stack developer with professional experience as an SDE-1 (Frontend Developer) at Sheshi, a fintech startup and expanding my expertise in backend development using Node.js, Express.js, MongoDB, and MySQL.
+I enjoy building practical products, solving engineering problems, and continuously learning modern web technologies.
 
 ---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-![Projects Gif](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
-
-### FusionCraft Hub
-- **Type:** FullStack
-- **Description:** Explore a local-first web application that combines 3D CAD-style design and physics experimentation in separate workspaces. The platform aims to let users create 3D objects, assemble designs, and transfer them into a physics simulation environment.
-- **Technologies Used:** Next.js, React, Three.js, Rapier, IndexedDB, TypeScript, JavaScript.
-- **[Deployed Link](https://fusioncraft-hub.siddkol04.workers.dev/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/FusionCraft-Hub)**
-
-### Dish Scanner
-- **Type:** FullStack
-- **Description:** Discover a beautifully crafted web application that seamlessly helps you track the calories of any dish with ease. Simply scan your meal using our custom-built scanner, and get accurate calorie information in seconds. A perfect blend of design and functionality for a healthier lifestyle!
-- **Technologies Used:** HTML5, CSS3, JavaScript, React, Node.js, Express.js, MongoDB, RESTful API
-- **[Deployed Link](https://dish-scanner.pages.dev/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/Dish-Scanner)**
-
-### Health Tracker
-- **Type:** Frontend
-- **Description:** A responsive website showcasing advanced CSS techniques and animations.
-- **Technologies Used:** HTML5, CSS3, JavaScript, React, Firebase
-- **[Deployed Link](https://incredible-llama-01f40f.netlify.app/)** | **[Repository](https://github.com/Siddhesh-Kolambekar/Health-Tracker)**
+- 💼 Previously worked as an **SDE-1 (Frontend Developer) at Sheshi**, a fintech startup.
+- ⚛️ Experienced in **React.js, Next.js, JavaScript, and TypeScript**.
+- 🎨 Interested in building responsive interfaces and reusable UI components.
+- 🔌 Experienced in REST API integration and frontend error handling.
+- 🛠️ Expanding my backend development skills with Node.js, Express.js, and MongoDB.
+- 🚀 Currently building independent web application projects.
+- 📍 Based in Mumbai, India.
 
 ---
 
-## GitHub Stats
+## 🛠️ Technical Skills
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhesh-Kolambekar&show_icons=true&theme=radical)
+**Frontend Development**
+- React.js, Next.js, Redux
+- JavaScript (ES6+), TypeScript
+- HTML5, CSS3, Tailwind CSS
+
+**API Integration & Backend**
+- REST APIs, Axios
+- Node.js, Express.js
+- JWT Authentication
+
+**Databases & Storage**
+- MongoDB, IndexedDB, Firebase
+
+**Tools & Additional Technologies**
+- Git, Bitbucket
+- Three.js, Rapier
+- Agile Development
+
+---
+
+## 🚀 Featured Projects
+
+### 1. FusionCraft Hub
+
+**A Local-First 3D Design and Physics Experimentation Platform**
+
+A web application that combines CAD-style 3D design and physics experimentation in separate workspaces. Users can create and manipulate 3D objects, assemble designs, and transfer them into a physics simulation environment.
+
+- **Key Technologies:** Next.js, React, TypeScript, Three.js, Rapier, IndexedDB.
+- **Live Demo:** [FusionCraft Hub](https://fusioncraft-hub.siddkol04.workers.dev/)
+- **Repository:** [GitHub Repository](https://github.com/Siddhesh-Kolambekar/FusionCraft-Hub)
+
+### 2. Dish Scanner
+
+**QR-Code-Based Nutrition Tracking Application**
+
+A full-stack application focused on scanning dishes and tracking nutritional information and calories. Currently under active development, with ongoing improvements to backend functionality and security.
+
+- **Key Technologies:** React, Vite, JavaScript, Node.js, Express.js, MongoDB, REST APIs, JWT.
+- **Status:** In Development.
+- **Repository:** [GitHub Repository](https://github.com/Siddhesh-Kolambekar/Dish-Scanner/tree/v1.0)
+
+### 3. Property Listing Platform
+
+**A Map-Based Property Listing Application**
+
+A responsive property listing application featuring property discovery, map-based browsing, and authentication.
+
+- **Key Technologies:** React, JavaScript, REST APIs, Node.js, Express.js, MongoDB.
+- **Live Demo:** [Property Listing Platform](https://property-listing-dnu.pages.dev/)
+- **Repository:** [GitHub Repository](https://github.com/Siddhesh-Kolambekar/Property-Listing)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhesh-Kolambekar&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Kolambekar&layout=compact&theme=radical)
 
 ---
 
-## How to Reach Me
+## 🤝 Let's Connect
 
-![Reach Out Gif](https://media.giphy.com/media/j5QcmXoFWlEzrgP55a/giphy.gif)
-
-- 📍 **Location:** Mumbai, India
-- 🔗 **Portfolio:** https://spectacular-genie-ce2e07.netlify.app/
-- 🔎 **LinkedIn:** www.linkedin.com/in/siddhesh-kolambekar-b25501348
+- 🌐 **Portfolio:** [siddhesh-kolambekar-portfolio.pages.dev](https://siddhesh-kolambekar-portfolio.pages.dev/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/siddhesh-kolambekr/)
 - 📧 **Email:** siddkol04@gmail.com
-- 📞 **Phone:** +91 9653198374
+- 📍 **Location:** Mumbai, India
 
-Feel free to reach out for collaboration, or to just connect!
+I'm open to remote frontend development opportunities, freelance projects, contract work, and collaborations.
+
+Feel free to explore my repositories or connect with me!
